@@ -1,0 +1,17 @@
+// Place all the styles related to the books controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+td{
+  padding:10px;
+}
+ 
+.flash-message.notice{
+  background-color:#bcdfff;
+  color:#0067C0;
+}
+
+.flash-message.alert{
+  background-color:#ffd4d1;
+  color:red;
+}
